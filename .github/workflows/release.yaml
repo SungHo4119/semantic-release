@@ -25,10 +25,10 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 22
+          node-version: 20
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          npm install -g @semantic-release/git @semantic-release/github @semantic-release/release-notes-generator @semantic-release/commit-analyzer semantic-release
+          npm install @semantic-release/git @semantic-release/github @semantic-release/release-notes-generator @semantic-release/commit-analyzer semantic-release
           npx run semantic-release
