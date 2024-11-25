@@ -1,5 +1,11 @@
 # 🚦 CHANGELOG
 
+## [1.1.1](https://github.com/SungHo4119/semantic-release/compare/v1.1.0...v1.1.1) (2024-11-25)
+
+### 🐛 Bug Fixes
+
+* 버그 수정시 1.1.0 -> 1.1.1 ([e62415f](https://github.com/SungHo4119/semantic-release/commit/e62415f1aad35c696a0c1661c892e894df841a53))
+
 ## [1.1.0](https://github.com/SungHo4119/semantic-release/compare/v1.0.0...v1.1.0) (2024-11-25)
 
 ### ✨ Features
