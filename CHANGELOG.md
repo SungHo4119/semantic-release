@@ -1,5 +1,11 @@
 # 🚦 CHANGELOG
 
+## [1.1.0](https://github.com/SungHo4119/semantic-release/compare/v1.0.0...v1.1.0) (2024-11-25)
+
+### ✨ Features
+
+* UI 명령어 테스트 ([bebb79c](https://github.com/SungHo4119/semantic-release/commit/bebb79ca57fbf2670c04865aba550bcad1caa469))
+
 ## 1.0.0 (2024-11-25)
 
 ### ✨ Features
