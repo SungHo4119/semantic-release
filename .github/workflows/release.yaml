@@ -6,7 +6,7 @@ on:
 
 permissions:
   contents: read # for checkout
-
+# 테스트
 jobs:
   # 빌드
   build:
