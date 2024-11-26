@@ -13,9 +13,10 @@
 # 커밋 메시지
   - `type: 내용` 으로 작성
   - type 종류
-      
-    - fix, feat, perf, refactor, docs, style, revert, ci, 
-    - test, chore, move, remove
+    - 수정 내역에 표기 되는 타입
+      - fix, feat, perf, refactor, docs, style, revert, ci, 
+    - 수정 내역에 표기 되지 않는 타입
+      - test, chore, move, remove
 
 ## 버전 증가 기준
 ## fix
@@ -39,7 +40,7 @@ feat: 기능 추가시 1.0.0 -> 1.1.0
 ### style
   - 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우
 ### revert 
-  - 이전 커밋 되돌릴 때
+- 이전 커밋 되돌릴 때
 ### ci
   - CI 관련 설정 수정
 ### test
