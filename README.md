@@ -19,6 +19,7 @@
       - test, chore, move, remove
 
 ## 버전 증가 기준
+
 ## fix
 fix: 버그 수정시 1.0.0 -> 1.0.1
 
