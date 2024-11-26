@@ -9,7 +9,7 @@
   - package.json 버전 동기화
   - release 배포
   - CHANGELOG.md 파일 작성 & 템플릿 수정
-
+  
 # 커밋 메시지
   - `type: 내용` 으로 작성
   - type 종류
