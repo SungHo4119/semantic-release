@@ -1,5 +1,13 @@
 # 🚦 CHANGELOG
 
+## [1.2.1](https://github.com/SungHo4119/semantic-release/compare/v1.2.0...v1.2.1) (2024-11-26)
+
+### 🐛 Bug Fixes
+
+* test ([3eb87e5](https://github.com/SungHo4119/semantic-release/commit/3eb87e561e32c092041d465658b8caae1a5c0845))
+* test ([c4da200](https://github.com/SungHo4119/semantic-release/commit/c4da200fbb01d79460b57cfdfb693d33a4b22791))
+* test2 ([fd29452](https://github.com/SungHo4119/semantic-release/commit/fd2945223f4216469111ecdd03ffcc07929e4f81))
+
 ## [1.2.0](https://github.com/SungHo4119/semantic-release/compare/v1.1.2...v1.2.0) (2024-11-26)
 
 ### ✨ Features
